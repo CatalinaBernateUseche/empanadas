@@ -14,7 +14,7 @@ echo "Hora de la compra: $hora";
 echo "Costo total: $costo_total";
 
 }else {
-    echo "No se recibio la comptra";
+    echo "No se recibio la compra";
 }
 
 
